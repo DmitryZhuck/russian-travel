@@ -19,7 +19,6 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__list/_item/intro__list_item.css);
 @import url(../blocks/intro/__list/_item-span/intro__list_item-span.css);
 
 @import url(../blocks/photo_grid/photo-grid.css);
@@ -44,3 +43,4 @@
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__links/_item/footer__links_item.css);
