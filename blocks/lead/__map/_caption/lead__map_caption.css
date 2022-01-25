@@ -1,0 +1,23 @@
+.lead__map_caption {
+  font-size: 10px;
+  line-height: 1.4;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  font-weight: 400;
+
+  color: #fff;
+
+  margin-top: 8px;
+}
+
+@media screen and (max-width: 768px) {
+  .lead__map_caption {
+    margin: 0 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__map_caption {
+    margin: 0 16px;
+  }
+}

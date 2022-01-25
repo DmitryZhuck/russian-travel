@@ -1,0 +1,22 @@
+.header__lang-link {
+  margin: 46px 48px 0 0;
+}
+@media screen and (max-width: 1024px) {
+  .header__lang-link {
+    max-width: 456px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header__lang-link {
+    max-width: 352px;
+    margin: 46px 24px 0 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header__lang-link {
+    max-width: 288px;
+    margin: 36px 16px 0 0;
+  }
+}
