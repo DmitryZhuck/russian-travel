@@ -1,24 +1,24 @@
-.lead__map {
+.lead__figure {
   max-width: 984px;
   margin: 0 auto;
 }
 
 @media screen and (max-width: 1024px) {
-  .lead__map {
+  .lead__figure {
     max-width: 928px;
     margin: 0 auto;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .lead__map {
+  .lead__figure {
     max-width: 768px;
     margin: 0 auto;
   }
 }
 
-@media screen and (max-width: 320px) {
-  .lead__map {
+@media screen and (max-width: 450px) {
+  .lead__figure {
     margin: 0 auto;
   }
 }

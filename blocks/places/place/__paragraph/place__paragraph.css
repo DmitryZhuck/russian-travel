@@ -4,11 +4,14 @@
   font-weight: normal;
   word-wrap: break-word;
 
-  text-overflow: hidden;
-  /* max-width: 484px; */
   color: #fff;
   margin: 0 0 26px 0;
 }
+
+.place__paragraph:last-of-type {
+  margin: 0;
+}
+
 @media screen and (max-width: 768px) {
   .place__paragraph {
     font-size: 16px;
