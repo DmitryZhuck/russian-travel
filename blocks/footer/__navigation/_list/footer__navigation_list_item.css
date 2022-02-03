@@ -1,11 +1,11 @@
-.footer__navigation_item {
+.footer__navigation_list_item {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
 @media screen and (max-width: 590px) {
-  .footer__navigation_item {
+  .footer__navigation_list_item {
     margin: 0 0;
     padding: 0 0 32px 0;
 
@@ -13,13 +13,13 @@
     line-height: 1;
   }
 
-  .footer__navigation_item:last-of-type {
+  .footer__navigation_list_item:last-of-type {
     padding: 0;
   }
 }
 
 @media screen and (max-width: 450px) {
-  .footer__navigation_item {
+  .footer__navigation_list_item {
     margin: 0 0;
 
     font-size: 24px;
